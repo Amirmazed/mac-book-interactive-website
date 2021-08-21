@@ -1,0 +1,110 @@
+  
+/* img {
+    width: 25%;
+    float: left;
+    margin-top: auto;
+    margin-left: 90px;
+    margin-right: 40px;
+    height: 75%;
+  }
+  
+   h1{
+      font-size: 35px; 
+      margin-top: 40px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+  section p{
+     margin-bottom: 30px;
+     font: weight 400px;
+   }  */
+
+
+   .two{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+
+  .first{
+      margin-right: 35px;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    right: 0;
+    
+    
+  }
+
+  .prices{
+      width: 33.33%;
+      margin-top: 50px;
+  }
+
+  .content{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid rgba(128, 128, 128, 0.514);
+      font-weight: bold;
+  }
+  .deliver{
+      border-bottom: 1px solid black;
+  }
+
+  .pass{
+    width: 50%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  .inb{
+      background-color: crimson;
+      color: white;
+      
+  }
+
+  .foot{
+      width: 100%;
+      border-top: 1px solid rgba(128, 128, 128, 0.514);
+      margin-top: 35px;
+  }
+
+  .lastcontent{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .btn{
+      background-color: white;
+      color: black;
+      height: 35px;
+      padding: 10px;
+      border: 1px solid gray;
+      cursor: pointer;
+      border-radius: 25px;
+  }
+  .btn:hover {
+      background-color: rgba(0, 0, 0, 0.438);
+      color: white;
+  }
+
+  .input, .inb {
+      height: 35px;
+      border-radius: 5px;
+  }
+  .inb:hover{
+      cursor: pointer;
+  }
+
+
+
+
+  
+
+ 
+
+   
